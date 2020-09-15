@@ -3,7 +3,7 @@
 ```javascript 
 const petr = {
   code: ['JavaScript', 'PHP', 'HTML', 'CSS'],
-  tools: ['GIT', 'npm', 'composer', 'Webpack', 'Docker']
+  tools: ['GIT', 'npm', 'Composer', 'Webpack', 'Docker']
   
 }
 ```
