@@ -2,7 +2,7 @@
 
 ```javascript 
 const petr = {
-  code: ['JavaScript', 'PHP', 'HTML', 'CSS'],
+  code: ['JavaScript', 'TypeScript', 'PHP', 'MySQL', 'HTML', 'CSS'],
   tools: ['GIT', 'npm', 'Composer', 'Docker']
   
 }
