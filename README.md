@@ -1,1 +1,1 @@
-# Hi, I'am Petr Chalupa 👋
+# Hello, I am Petr! 👋
